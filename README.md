@@ -2,4 +2,4 @@
 
 IBM Workshop Notes Repo:
 
-<img src='https://drive.google.com/file/d/1tYrkyLrhiUqjFKLtOhPn7-WonASX78MW/view?usp=drive_link' width='100%'>
+<img href='https://drive.google.com/file/d/1tYrkyLrhiUqjFKLtOhPn7-WonASX78MW/view?usp=drive_link' width='100%'>
